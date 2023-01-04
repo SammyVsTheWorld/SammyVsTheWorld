@@ -7,7 +7,7 @@
 
 - 📧 How to reach me **Samuelmartinez1600@yahoo.com**
 
-- 👀 Fun fact **I enjoy building PCs.**
+- 👀 Fun fact **I enjoy building PCs and learning about new PC hardware.**
 
 
 
