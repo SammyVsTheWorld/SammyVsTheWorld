@@ -5,9 +5,8 @@
 
 - I’m currently learning **Python and Javascript**
 
-- 📧 How to reach me **Samuelmartinez1600@yahoo.com**
 
-- 👀 Fun fact **I enjoy building PCs and learning about new PC hardware.**
+
 
 
 
