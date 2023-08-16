@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://hellofuture.orange.com/app/uploads/2021/04/home-HF_GA-1920x1080-CYBERSECU.gif">
 
 
-- I’m currently learning **Python and Javascript**
+- I’m currently learning **Python and Powershell**
 
 
 
