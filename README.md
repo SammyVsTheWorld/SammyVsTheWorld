@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samuel</h1>
-<h3 align="center">A Cyber Security enthusiast from the US looking to expand his knowledge in the coding world.</h3>
+
 <img align="right" alt="Coding" width="400" src="https://hellofuture.orange.com/app/uploads/2021/04/home-HF_GA-1920x1080-CYBERSECU.gif">
 
 
